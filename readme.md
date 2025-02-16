@@ -1,11 +1,19 @@
 # Create venv
+
     python -m venv .venv
 
-# Active venv
+# Activate venv
+
     .venv\Scripts\activate
 
-# install packages
+# Upgrade pip
+
+    python -m pip install --upgrade pip
+
+# Install packages
+
     pip install -r requirements.txt
 
-# run app
+# Run app
+
     python app.py
