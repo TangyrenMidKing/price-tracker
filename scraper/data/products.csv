@@ -1,0 +1,2 @@
+name,price,url,selector
+HP Laptop 17t-cn300 17.3,450.00,https://www.hp.com/us-en/shop/ConfigureView?ctoCacheInvalidationCnt=0.5220600150568337&catalogId=10051&orderItemId=227190213&configCatentryId=&fromURL=AjaxOrderItemDisplayView&contractId=10003&langId=-1&storeId=10151&catEntryId=3074457345620699825,div[data-test-hook="@hpstellar/core/price-block__sale-price"]
